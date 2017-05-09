@@ -12,3 +12,4 @@ Visual Studio: 2017 Enterprise
 .NET: 4.5.2  
 NUnit: 2.6.4  
 NUnit Adapter: NUnit 2 Test Adapter 2.1.1  
+Excel: Exel 2016
