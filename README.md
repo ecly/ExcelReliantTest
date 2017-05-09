@@ -1,15 +1,16 @@
 # How to test:
 **Prerequisites**  
-Following or simliar installations as seen in ***Versions***
+Identical or simliar installations as seen in ***Versions***
 
 **Versions**  
+Windows: 7
 Visual Studio: 2017 Enterprise  
 .NET: 4.5.2  
 NUnit: 2.6.4  
 NUnit Adapter: NUnit 2 Test Adapter 2.1.1  
 Excel: Exel 2016
 
-## Reproduction:
+### Reproduction:
  - First run both the tests without Code Coverage *(NUnit 2 Test Adapter needed for NUnit test)*
  	+ Observe them both executing just fine.
  - Run one of them with Code Coverage
