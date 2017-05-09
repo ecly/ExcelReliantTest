@@ -8,7 +8,7 @@
  - Now attempt to run the second test and observe the same behavior as seen in first test.
 
 **Versions**
-Visual Studio: 2017 Enterprise
-.NET: 4.5.2
-NUnit: 2.6.4
-NUnit Adapter: NUnit 2 Test Adapter 2.1.1
+Visual Studio: 2017 Enterprise  
+.NET: 4.5.2  
+NUnit: 2.6.4  
+NUnit Adapter: NUnit 2 Test Adapter 2.1.1  
