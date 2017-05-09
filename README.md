@@ -12,6 +12,7 @@ Excel: Exel 2016
 
 ### Reproduction:
 - Open solution and build to discover unit tests.  
+- Ensure any currently running instances of Excel are fully closed.
 - Run both the tests without Code Coverage. *(NUnit 2 Test Adapter needed for NUnit test)*
  + Observe them both executing just fine.
 - Run one of them with Code Coverage.
