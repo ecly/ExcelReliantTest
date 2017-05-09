@@ -3,7 +3,7 @@
 Identical or simliar installations as seen in ***Versions***
 
 **Versions**  
-Windows: 7
+Windows: 7  
 Visual Studio: 2017 Enterprise  
 .NET: 4.5.2  
 NUnit: 2.6.4  
